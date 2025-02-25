@@ -2,7 +2,7 @@
 
 This Python script converts images (including **SVG**) to `.npy` files and vice versa.  
 
-## 🚀 Features
+## Features
 - Convert **JPEG, PNG, SVG** (and more) to **NumPy (`.npy`)** format.
 - Convert `.npy` files back into images.
 - Supports **SVG conversion** using `cairosvg`.
@@ -81,6 +81,7 @@ Feel free to submit **issues** or **pull requests**!
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
+## 🛠 Developed By
 
-Replace `yourusername` in the **GitHub clone URL** with your actual username. Let me know if you need modifications! 🚀
+💡 Subhajit Roy
+🚀 Connect with me: [GitHub](https://github.com/HappySR) | [LinkedIn](www.linkedin.com/in/subhajit-roy-dev)
